@@ -59,6 +59,6 @@
 
 ### 3.界面展示部分
 
-![Screenshot](finalvue1/static/Screenshot.png)
+![Screenshot](static/Screenshot.png)
 
-![Screenshot1](finalvue1/static/Screenshot1.png)
+![Screenshot1](static/Screenshot1.png)
