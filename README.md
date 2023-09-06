@@ -1,63 +1,63 @@
 # Q-A-Web-Application-Front-End
 
-### 1.简介
+### 1.Introduction
 
-西交利物浦大学软件开发项目
+Software development project at Xi'an Jiaotong-Liverpool University.
 
-实现了一个在线问答平台的前端部分
+Implemented the front-end portion of an online question and answer platform.
 
-技术栈： vue3 + vuex + vue-router + webpack + ElementUI
+Tech Stack: Vue 3 + Vuex + Vue Router + Webpack + ElementUI
 
-项目原地址： https://gitee.com/yngrxxm/finalvue1/tree/master/finalvue1
+Original Project Repository: https://gitee.com/yngrxxm/finalvue1/tree/master/finalvue1
 
-### 2.下载与使用
+### 2.Download and Usage
 
-- 1.下载代码
+- 1.Download the code
 
   ```shell
   git clone https://github.com/FENGRUI99/Q-A-Web-Front-End.git
   cd finalvue1
   ```
 
-- 2.安装依赖
+- 2.Download the code
 
   ```java
   npm install
   ```
 
-  **macbook m1芯片**装chromedriver会报错，需单独执行`npm install chromedriver@87.0.1`
+  **For Macbook M1 Chip**Installing chromedriver may cause errors; you need to run `npm install chromedriver@87.0.1`
 
-- 使用
+- Usage
 
   ```shell
   npm run dev
   ```
 
-### 3. 页面功能实现
+### 3. Implemented Page Functionalities
 
-- 封面页
-- 登陆页
-  - 登陆
-- 注册页
-  - 注册
-- 主页
-  - 按照名称，发布时间，热度排序
-  - 按照类型筛选
-  - 搜索问题
-  - 无限下拉+骨架图展示问题
-  - 点击提问按钮
-- 个人详情页
-  - 个人资料修改
-  - 密码修改
-  - 发布问题和回答问题
-- 问题详情页
-  - 问题详情展示
-  - 回复展示
-  - 相关问题展示
-- 聊天页
-  - 选择好友聊天
+- Cover Page
+- Login Page
+  - Log In
+- Registration Page
+  - Register
+- Main Page
+  - Sort by Name, Posting Time, and Popularity
+  - Filter by Type
+  - Search Questions
+  - Infinite Scroll with Skeleton Loading
+  - Click on Ask Question Button
+- User Profile Page
+  - Edit Personal Information
+  - Change Password
+  - Post Questions and Answers
+- Question Details Page
+  - Display Question Details
+  - Display Replies
+  - Display Related Questions
+- Chat Page
+  - Select Friend to Chat
 
-### 3.界面展示部分
+### 3. Interface Showcase
 
 ![Screenshot](static/Screenshot.png)
 
